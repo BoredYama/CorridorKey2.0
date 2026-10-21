@@ -1,0 +1,2 @@
+# Install into the same venv as torch (infer.py runs with the GUI's interpreter).
+gradio>=6,<7
